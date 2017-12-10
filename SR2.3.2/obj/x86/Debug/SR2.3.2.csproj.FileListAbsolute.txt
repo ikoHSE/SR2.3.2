@@ -1,0 +1,5 @@
+/Users/ilya/Developer/HSE/SR2.3.2/SR2.3.2/obj/x86/Debug/SR2.3.2.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/SR2.3.2/SR2.3.2/bin/Debug/SR2.3.2.exe
+/Users/ilya/Developer/HSE/SR2.3.2/SR2.3.2/bin/Debug/SR2.3.2.pdb
+/Users/ilya/Developer/HSE/SR2.3.2/SR2.3.2/obj/x86/Debug/SR2.3.2.exe
+/Users/ilya/Developer/HSE/SR2.3.2/SR2.3.2/obj/x86/Debug/SR2.3.2.pdb
